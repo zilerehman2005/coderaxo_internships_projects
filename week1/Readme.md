@@ -1,6 +1,5 @@
 **Insights Report: Exploratory Data Analysis of the Titanic Dataset**
 
-Task 06 --- EDA Insights Report
 
 # 1. Dataset Overview
 
