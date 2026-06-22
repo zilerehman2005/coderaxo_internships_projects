@@ -88,31 +88,35 @@ normally.
 
 # Visual References
 
-<img width="450" height="305" alt="image" src="https://github.com/user-attachments/assets/26f9cf85-060c-47b0-81ad-b7ae5e08dbac" />
-
 
 *Figure 3. Survival counts by passenger class.*
 
-![](media/image2.png){width="3.0in" height="1.9895833333333333in"}
+<img width="450" height="305" alt="image" src="https://github.com/user-attachments/assets/26f9cf85-060c-47b0-81ad-b7ae5e08dbac" />
 
 *Figure 7. Survival rate by sex.*
 
-![](media/image3.png){width="3.3958333333333335in" height="2.3125in"}
+<img width="450" height="298" alt="image" src="https://github.com/user-attachments/assets/18b2242f-2894-46a9-a13c-c9b67511cc86" />
+
 
 *Figure 6. Correlation heatmap of numeric features.*
 
-![](media/image4.png){width="3.0in" height="2.0416666666666665in"}
+<img width="509" height="347" alt="image" src="https://github.com/user-attachments/assets/b30dd446-f4e0-4a77-9b78-7db433a810df" />
+
 
 *Figure 5. Fare distribution by passenger class.*
 
-![](media/image5.png){width="3.0in" height="2.0in"}
+<img width="450" height="306" alt="image" src="https://github.com/user-attachments/assets/06613755-7c45-4d1b-b9da-a93e7175c638" />
+
+
 
 *Figure 2. Age distribution of passengers.*
 
-![](media/image6.png){width="3.3958333333333335in" height="2.1875in"}
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/1c87b017-ff8b-4414-9fce-ce3eaad3eecb" />
+
 
 *Figure 4. Age vs fare, coloured by survival.*
 
-![](media/image7.png){width="2.8020833333333335in" height="2.6875in"}
+<img width="509" height="328" alt="image" src="https://github.com/user-attachments/assets/3bcfb86e-9b86-44f1-8b89-cd50055c4215" />
+
 
 *Figure 1. Missing values heatmap across all columns.*
