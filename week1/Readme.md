@@ -118,7 +118,6 @@ normally.
 
 <img width="509" height="328" alt="image" src="https://github.com/user-attachments/assets/e12eada8-d73b-4578-b5fb-2507dee0fd6d" />
 
-
-*Figure 1. Missing values heatmap across all columns.*
 <img width="420" height="403" alt="image" src="https://github.com/user-attachments/assets/f2afcf01-23e6-457e-a35c-4810845240ab" />
+*Figure 1. Missing values heatmap across all columns.*
 
