@@ -1,7 +1,5 @@
 **Insights Report: Exploratory Data Analysis of the Titanic Dataset**
 
-Task 06 --- EDA Insights Report
-
 # 1. Dataset Overview
 
 The Titanic dataset is drawn from the passenger manifest of the RMS
@@ -89,30 +87,38 @@ normally.
 
 # Visual References
 
-![](media/image1.png){width="3.0in" height="2.03125in"}
+
+
 
 *Figure 3. Survival counts by passenger class.*
 
-![](media/image2.png){width="3.0in" height="1.9895833333333333in"}
+<img width="450" height="305" alt="image" src="https://github.com/user-attachments/assets/ade739d8-161f-40f4-94db-cb2488af9dfb" />
 
 *Figure 7. Survival rate by sex.*
 
-![](media/image3.png){width="3.3958333333333335in" height="2.3125in"}
+<img width="450" height="298" alt="image" src="https://github.com/user-attachments/assets/dbc396a4-d8b6-4edb-984c-c4dc7c2df372" />
+
 
 *Figure 6. Correlation heatmap of numeric features.*
 
-![](media/image4.png){width="3.0in" height="2.0416666666666665in"}
+<img width="509" height="347" alt="image" src="https://github.com/user-attachments/assets/3961b8f9-342f-4a69-be3c-45c5cdedbf6d" />
+
 
 *Figure 5. Fare distribution by passenger class.*
 
-![](media/image5.png){width="3.0in" height="2.0in"}
+<img width="450" height="306" alt="image" src="https://github.com/user-attachments/assets/9c4b81fd-8843-41fe-a365-d47c13c46289" />
+
 
 *Figure 2. Age distribution of passengers.*
 
-![](media/image6.png){width="3.3958333333333335in" height="2.1875in"}
+<img width="450" height="300" alt="image" src="https://github.com/user-attachments/assets/dd2c4030-29de-4703-82a5-d2bcf3682bbe" />
+
 
 *Figure 4. Age vs fare, coloured by survival.*
 
-![](media/image7.png){width="2.8020833333333335in" height="2.6875in"}
+<img width="509" height="328" alt="image" src="https://github.com/user-attachments/assets/e12eada8-d73b-4578-b5fb-2507dee0fd6d" />
+
 
 *Figure 1. Missing values heatmap across all columns.*
+<img width="420" height="403" alt="image" src="https://github.com/user-attachments/assets/f2afcf01-23e6-457e-a35c-4810845240ab" />
+
