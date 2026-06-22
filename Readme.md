@@ -1,6 +1,5 @@
 **Insights Report: Exploratory Data Analysis of the Titanic Dataset**
 
-Task 06 --- EDA Insights Report
 
 # 1. Dataset Overview
 
@@ -89,7 +88,8 @@ normally.
 
 # Visual References
 
-![](media/image1.png){width="3.0in" height="2.03125in"}
+<img width="450" height="305" alt="image" src="https://github.com/user-attachments/assets/26f9cf85-060c-47b0-81ad-b7ae5e08dbac" />
+
 
 *Figure 3. Survival counts by passenger class.*
 
