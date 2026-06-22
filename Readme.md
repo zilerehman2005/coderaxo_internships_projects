@@ -120,3 +120,4 @@ normally.
 
 
 *Figure 1. Missing values heatmap across all columns.*
+<img width="420" height="403" alt="image" src="https://github.com/user-attachments/assets/1ec7eea5-d43d-4176-bccc-da5acb96666a" />
