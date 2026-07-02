@@ -93,7 +93,11 @@ prediction accuracy across the price range.
 <!-- Add your screenshot below. Place the image file inside a `screenshots/` folder next to
      this README, then update the path if needed. -->
 
-![Notebook Results](screenshots/results.png)
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/2f972228-b7b9-4858-9f97-accd2f05f74d" />
+
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/99dfc2c8-a7dc-4343-860d-8e085c966f02" />
+
+
 
 ---
 *Part of the Coderaxo AI/ML Internship — Week 2 submission.*
